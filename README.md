@@ -6,7 +6,7 @@
 
 ### My python libraries ⚙️
 
-- 🐇 [speedysvc](https://github.com/mcyph/speedysvc) for really fast parallel comms using shared memory
+- 🐇 [speedysvc](https://github.com/mcyph/speedysvc) for really fast parallel workers using shared memory
 - 🖌️ [cnn_chinese_hw](https://github.com/mcyph/cnn_chinese_hw) for tolerant Chinese/Japanese handwriting recognition
 - 📙 [pos_tagger](https://github.com/mcyph/pos_tagger) for multi-engine part-of-speech tagging (🚧 in progress!)
 
