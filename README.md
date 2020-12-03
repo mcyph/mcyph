@@ -1,7 +1,16 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on covid-19 [🔢stats collection](https://github.com/mcyph/world_subnational_covid_crawler), [💾archiving](https://github.com/mcyph/global_subnational_covid_data) and [📈visualization](https://covid-19-au.com/)!
+- 🔭 I’m currently working on covid-19 [🔢stats collection](https://github.com/mcyph/world_subnational_covid_crawler), [💾archiving](https://github.com/mcyph/global_subnational_covid_data) and [📈visualization](https://covid-19-au.com/)
 - 🌱 I’m currently learning ruby on rails, java on android, vue.js, leaflet.js, ...
+
+### My apps ⚙️
+
+- 🐇 [speedysvc](https://github.com/mcyph/speedysvc) for really fast parallel comms
+- 🖌️ [cnn_chinese_hw](https://github.com/mcyph/cnn_chinese_hw) for tolerant Chinese/Japanese handwriting recognition
+
+### Other misc stuff ⚙️
+
+- 🐍 [python_quick_flythru](https://github.com/mcyph/python_quick_flythru): practical python standard lib docs (in progress!)
 
 <!--
 **mcyph/mcyph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
