@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on covid-19 [🔢stats collection](https://github.com/mcyph/world_subnational_covid_crawler), [💾archiving](https://github.com/mcyph/global_subnational_covid_data) and [📈visualization](https://covid-19-au.com/)
 - 🌱 I’m currently learning ruby on rails, java on android, vue.js, leaflet.js, ...
+- 🏛️ Recently I've also been working on [decidim-cfj](https://github.com/codeforjapan/decidim-cfj) and other civic-tech projects
 
 ### My python libraries ⚙️
 
