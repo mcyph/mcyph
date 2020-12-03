@@ -10,6 +10,11 @@
 - 🖌️ [cnn_chinese_hw](https://github.com/mcyph/cnn_chinese_hw) for tolerant Chinese/Japanese handwriting recognition
 - 📙 [pos_tagger](https://github.com/mcyph/pos_tagger) for multi-engine part-of-speech tagging (🚧 in progress!)
 
+### My web apps 🌐
+
+- 🐱 [langlynx](https://langlynx.com) is translation software with one of the largest collections of open content dictionaries+encyclopedias
+- 🗣 [help-pronounce.com](https://github.com/mcyph/help_pronounce) shows phonetics and pronunciations for words
+
 ### Other misc stuff ✨
 
 - 🐍 [python_quick_flythru](https://github.com/mcyph/python_quick_flythru): practical python standard lib docs (🚧 in progress!)
