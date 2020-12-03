@@ -12,7 +12,7 @@
 
 ### My web apps 🌐
 
-- 🐱 [langlynx](https://langlynx.com) is translation software with one of the largest collections of open content dictionaries+encyclopedias
+- 🐱 [langlynx](https://langlynx.com) is translation software for 100+ languages with dictionaries+encyclopedias
 - 🗣 [help-pronounce.com](https://github.com/mcyph/help_pronounce) shows phonetics and pronunciations for words
 
 ### Other misc stuff ✨
