@@ -12,6 +12,7 @@
 - あ [char_data](https://github.com/mcyph/char_data) has information for nearly any Unicode character/alphabet/emoji
 - 🌏 [lang_data](https://github.com/mcyph/lang_info) gives language data for 100's of languages from the Unicode Common Locale Data Repository (CLDR)
 - 🌎 [iso_tools](https://github.com/mcyph/iso_tools) lets you work with language (ISO 639), script (ISO 15924) and region (ISO 3166) codes
+- 🌍 [multi_translit](https://github.com/mcyph/multi_translit) converts between alphabets: Cyrillic `Россия` can be converted to `Rossiâ`, for example!
 
 ### My web apps 🌐
 
