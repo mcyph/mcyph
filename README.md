@@ -5,20 +5,13 @@
 - 🏛️ Recently I've also been contributing patches to [decidim-cfj](https://github.com/codeforjapan/decidim-cfj) and other civic-tech projects
 
 ### My python libraries ⚙️
-- Frameworks
-  - 🐇 [speedysvc](https://github.com/mcyph/speedysvc) - fast, low-latency microservices using shared memory
-
-- Input Methods
-  - 🖌️ [cnn_chinese_hw](https://github.com/mcyph/cnn_chinese_hw) - tolerant Chinese/Japanese handwriting recognition using machine learning
-
-- Language information
-  - あ [char_data](https://github.com/mcyph/char_data) - data on Unicode characters/symbols/emoji 🚧
-  - 🌏 [lang_data](https://github.com/mcyph/lang_data) - info for languages from the [Unicode Common Locale Data Repository](http://cldr.unicode.org/) (CLDR) 🚧
-
-- Language processing
-  - 📙 [pos_tagger](https://github.com/mcyph/pos_tagger) - multi-engine part-of-speech tagging 🚧
-  - 🌍 [multi_translit](https://github.com/mcyph/multi_translit) - convert between alphabets: Cyrillic `Россия` can be converted to `Rossiâ`, for example! 🚧
-  - 🌎 [iso_tools](https://github.com/mcyph/iso_tools) - work with language, script and region (ISO [639](https://en.wikipedia.org/wiki/ISO_639), [15924](https://en.wikipedia.org/wiki/ISO_15924) and [3166](https://en.wikipedia.org/wiki/ISO_3166)) codes 🚧
+- 🐇 [speedysvc](https://github.com/mcyph/speedysvc) - fast, low-latency microservices using shared memory
+- 🖌️ [cnn_chinese_hw](https://github.com/mcyph/cnn_chinese_hw) - tolerant Chinese/Japanese handwriting recognition using machine learning
+- あ [char_data](https://github.com/mcyph/char_data) - data on Unicode characters/symbols/emoji 🚧
+- 🌏 [lang_data](https://github.com/mcyph/lang_data) - info for languages from the [Unicode Common Locale Data Repository](http://cldr.unicode.org/) (CLDR) 🚧
+- 📙 [pos_tagger](https://github.com/mcyph/pos_tagger) - multi-engine part-of-speech tagging 🚧
+- 🌍 [multi_translit](https://github.com/mcyph/multi_translit) - convert between alphabets: Cyrillic `Россия` can be converted to `Rossiâ`, for example! 🚧
+- 🌎 [iso_tools](https://github.com/mcyph/iso_tools) - work with language, script and region (ISO [639](https://en.wikipedia.org/wiki/ISO_639), [15924](https://en.wikipedia.org/wiki/ISO_15924) and [3166](https://en.wikipedia.org/wiki/ISO_3166)) codes 🚧
 
 ### My web apps 🌐
 
