@@ -5,7 +5,7 @@
 - 🏛️ Recently I've also been contributing patches to [decidim-cfj](https://github.com/codeforjapan/decidim-cfj) and other civic-tech projects
 
 ### My python libraries ⚙️
-- 🐇 [speedysvc](https://github.com/mcyph/speedysvc) - fast, low-latency microservices using shared memory
+- 🐇 [speedysvc](https://github.com/mcyph/speedysvc) - fastest, lowest-latency microservices using shared memory
 - 🖌️ [cnn_chinese_hw](https://github.com/mcyph/cnn_chinese_hw) - tolerant Chinese/Japanese handwriting recognition using machine learning
 - あ [char_data](https://github.com/mcyph/char_data) - data on Unicode characters/symbols/emoji: for example, you can find out what `🤖`, `∈` or `Ж` are called! 🚧
 - 🌏 [lang_data](https://github.com/mcyph/lang_data) - language data from the [Unicode Common Locale Data Repository](http://cldr.unicode.org/) (CLDR) 🚧
