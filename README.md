@@ -7,7 +7,7 @@
 ### My python libraries ⚙️
 - 🐇 [speedysvc](https://github.com/mcyph/speedysvc) - fastest, lowest-latency microservices using shared memory
 - 🖌️ [cnn_chinese_hw](https://github.com/mcyph/cnn_chinese_hw) - tolerant Chinese/Japanese handwriting recognition using machine learning
-- あ [char_data](https://github.com/mcyph/char_data) - data on Unicode characters/symbols: you can find out what `🤖`, `∈` or `Ж` are called for example! 🚧
+- あ [char_data](https://github.com/mcyph/char_data) - data on Unicode characters/symbols: find out what `🤖`, `∈` or `Ж` are called for example! 🚧
 - 🌏 [lang_data](https://github.com/mcyph/lang_data) - language data from the [Unicode Common Locale Data Repository](http://cldr.unicode.org/) (CLDR) 🚧
 - 🌍 [multi_translit](https://github.com/mcyph/multi_translit) - convert between alphabets: Cyrillic `Россия` can be converted to `Rossiâ`, for example! 🚧
 - 🌎 [iso_tools](https://github.com/mcyph/iso_tools) - work with language, script and region (ISO [639](https://en.wikipedia.org/wiki/ISO_639), [15924](https://en.wikipedia.org/wiki/ISO_15924) and [3166](https://en.wikipedia.org/wiki/ISO_3166)) codes 🚧
