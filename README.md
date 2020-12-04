@@ -14,8 +14,6 @@
 - 🌎 [iso_tools](https://github.com/mcyph/iso_tools) - work with language, script and region (ISO [639](https://en.wikipedia.org/wiki/ISO_639), [15924](https://en.wikipedia.org/wiki/ISO_15924) and [3166](https://en.wikipedia.org/wiki/ISO_3166)) codes 🚧
 - 🌍 [multi_translit](https://github.com/mcyph/multi_translit) - convert between alphabets: Cyrillic `Россия` can be converted to `Rossiâ`, for example! 🚧
 
-
-
 ### My web apps 🌐
 
 - 🐱 [langlynx.com](https://langlynx.com) - translation software for 100+ languages with dictionaries and encyclopedias
