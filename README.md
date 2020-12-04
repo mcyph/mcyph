@@ -11,7 +11,7 @@
 - 📙 [pos_tagger](https://github.com/mcyph/pos_tagger) - multi-engine part-of-speech tagging 🚧
 - あ [char_data](https://github.com/mcyph/char_data) - data on Unicode characters/symbols/emoji 🚧
 - 🌏 [lang_data](https://github.com/mcyph/lang_data) - info for languages from the [Unicode Common Locale Data Repository](http://cldr.unicode.org/) (CLDR) 🚧
-- 🌎 [iso_tools](https://github.com/mcyph/iso_tools) - work with language ([ISO 639](https://en.wikipedia.org/wiki/ISO_639)), script ([ISO 15924](https://en.wikipedia.org/wiki/ISO_15924)) and region ([ISO 3166](https://en.wikipedia.org/wiki/ISO_3166)) codes 🚧
+- 🌎 [iso_tools](https://github.com/mcyph/iso_tools) - work with language, script and region (ISO [639](https://en.wikipedia.org/wiki/ISO_639), [15924](https://en.wikipedia.org/wiki/ISO_15924) and [3166](https://en.wikipedia.org/wiki/ISO_3166)) codes 🚧
 - 🌍 [multi_translit](https://github.com/mcyph/multi_translit) - convert between alphabets: Cyrillic `Россия` can be converted to `Rossiâ`, for example! 🚧
 
 
