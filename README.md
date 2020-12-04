@@ -25,7 +25,7 @@
 
 - 🐍 [python_quick_flythru](https://github.com/mcyph/python_quick_flythru): practical python standard lib docs 🚧
 
-<p align="right"> *🚧 = in progress/currently being documented* </p>
+<p align="right"><i>🚧 = in progress/currently being documented</i></p>
 
 <!--
 **mcyph/mcyph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
