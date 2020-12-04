@@ -9,6 +9,9 @@
 - 🐇 [speedysvc](https://github.com/mcyph/speedysvc) for extremely fast, low-latency parallel processing using shared memory
 - 🖌️ [cnn_chinese_hw](https://github.com/mcyph/cnn_chinese_hw) for tolerant Chinese/Japanese handwriting recognition
 - 📙 [pos_tagger](https://github.com/mcyph/pos_tagger) for multi-engine part-of-speech tagging (🚧 in progress!)
+- あ [char_data](https://github.com/mcyph/char_data) has information for nearly any Unicode character/alphabet/emoji
+- 🌏 [lang_data](https://github.com/mcyph/lang_info) gives language data for 100's of languages from the Unicode Common Locale Data Repository (CLDR)
+- 🌎 [iso_tools](https://github.com/mcyph/iso_tools) lets you work with language (ISO 639), script (ISO 15924) and region (ISO 3166) codes
 
 ### My web apps 🌐
 
