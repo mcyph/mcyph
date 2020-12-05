@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-<dl>
-<dd>🔭 I’m currently working on covid-19 [🔢stats collection](https://github.com/mcyph/world_subnational_covid_crawler), [💾archiving](https://github.com/mcyph/global_subnational_covid_data) and [📈visualization](https://covid-19-au.com/)</dd>
-<dd>🌱 I’m currently learning to use [pandas](https://pandas.pydata.org/), [scikit-learn](https://scikit-learn.org/), [Keras](https://keras.io/), [ruby on rails](https://rubyonrails.org/), [leaflet](https://leafletjs.com/), android mobile dev with Java, ...</dd>
-<dd>🏛️ Recently I've also been contributing patches to [decidim-cfj](https://github.com/codeforjapan/decidim-cfj) and other civic-tech projects</dd>
-</dl>
+🔭 I’m currently working on covid-19 [🔢stats collection](https://github.com/mcyph/world_subnational_covid_crawler), [💾archiving](https://github.com/mcyph/global_subnational_covid_data) and [📈visualization](https://covid-19-au.com/)<br/>
+🌱 I’m currently learning to use [pandas](https://pandas.pydata.org/), [scikit-learn](https://scikit-learn.org/), [Keras](https://keras.io/), [ruby on rails](https://rubyonrails.org/), [leaflet](https://leafletjs.com/), android mobile dev with Java, ...<br/>
+🏛️ Recently I've also been contributing patches to [decidim-cfj](https://github.com/codeforjapan/decidim-cfj) and other civic-tech projects
 
 ### My python libraries ⚙️
 🐇 [speedysvc](https://github.com/mcyph/speedysvc) - fastest, lowest-latency microservices using shared memory<br/>
