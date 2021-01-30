@@ -7,6 +7,7 @@
 * https://roadmap.sh/
 * https://github.com/ml-tooling
 * https://github.com/chris-chris/ml-engineer-roadmap
+* https://www.thecodeship.com/general/hackathon-toolbox-essential-tools-practices/
 
 ## Tutorials
 
