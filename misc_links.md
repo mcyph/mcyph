@@ -1,3 +1,7 @@
+# Miscellaneous links
+
+[< Back to profile](https://github.com/mcyph)
+
 * https://bdtechtalks.com/2021/01/25/gpt-3-startups-businesses/
 * https://orangedatamining.com
 * https://brain.js.org/#/
@@ -18,4 +22,7 @@
 * https://venturebeat.com/2020/10/19/facebooks-open-source-m2m-100-model-can-translate-between-100-different-languages/
 * https://github.com/pytorch/fairseq/tree/master/examples/m2m_100
 * https://www.facebook.com/groups/mathfordatascience/permalink/1292007551133332
-* https://github.com/mcyph?tab=stars
+
+* More links I plan to sort: https://github.com/mcyph?tab=stars
+* See also for climate change-related links: https://hackmd.io/f--6YsuyQduYosKEGfNXCQ
+* See for covid-19 links: https://github.com/mcyph/world_subnational_covid_crawler/blob/master/potential_sources.md
