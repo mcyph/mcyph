@@ -8,6 +8,8 @@
 * https://github.com/ml-tooling
 * https://github.com/chris-chris/ml-engineer-roadmap
 * https://www.thecodeship.com/general/hackathon-toolbox-essential-tools-practices/
+* https://huggingface.co/
+* https://github.com/huggingface
 
 ## Tutorials
 
