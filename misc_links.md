@@ -29,6 +29,12 @@
 
 * https://www.mltut.com/free-public-datasets-for-your-data-science-project/
 
+## ML Models
+
+* https://modelzoo.co/
+* https://github.com/onnx/models
+* https://github.com/collections/ai-model-zoos
+
 ## Other resources
 
 * https://orangedatamining.com
