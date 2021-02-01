@@ -24,6 +24,7 @@
 * https://www.facebook.com/groups/mathfordatascience/permalink/1292007551133332
 * https://bdtechtalks.com/2021/01/25/gpt-3-startups-businesses/
 * https://activewizards.com/blog/
+* https://medium.com/stepstone-tech/how-to-build-17-apps-with-a-single-android-project-and-not-go-crazy-91d025adf0f0
 
 ## Datasets
 
