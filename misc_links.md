@@ -26,6 +26,7 @@
 * https://activewizards.com/blog/
 * https://medium.com/stepstone-tech/how-to-build-17-apps-with-a-single-android-project-and-not-go-crazy-91d025adf0f0
 * https://medium.com/spatial-data-science/build-and-deploy-full-web-applications-quickly-with-python-e196771f48df
+* https://towardsdatascience.com/a-gentle-introduction-to-natural-language-processing-e716ed3c0863
 
 ## Datasets
 
