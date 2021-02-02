@@ -25,6 +25,7 @@
 * https://bdtechtalks.com/2021/01/25/gpt-3-startups-businesses/
 * https://activewizards.com/blog/
 * https://medium.com/stepstone-tech/how-to-build-17-apps-with-a-single-android-project-and-not-go-crazy-91d025adf0f0
+* https://medium.com/spatial-data-science/build-and-deploy-full-web-applications-quickly-with-python-e196771f48df
 
 ## Datasets
 
@@ -46,6 +47,7 @@
 * https://www.openmptcprouter.com/
 * https://venturebeat.com/2020/10/19/facebooks-open-source-m2m-100-model-can-translate-between-100-different-languages/
 * https://github.com/pytorch/fairseq/tree/master/examples/m2m_100
+* https://www.streamlit.io/
 
 * More links I plan to sort: https://github.com/mcyph?tab=stars
 * See also for climate change-related links: https://hackmd.io/f--6YsuyQduYosKEGfNXCQ
