@@ -28,6 +28,7 @@
 * https://medium.com/spatial-data-science/build-and-deploy-full-web-applications-quickly-with-python-e196771f48df
 * https://towardsdatascience.com/a-gentle-introduction-to-natural-language-processing-e716ed3c0863
 * https://towardsdatascience.com/the-most-useful-ml-tools-2020-e41b54061c58
+* https://prakhar-mishra.medium.com/subtitle-translator-web-application-with-streamlit-and-easynmt-9c568d162453
 
 ## Datasets
 
