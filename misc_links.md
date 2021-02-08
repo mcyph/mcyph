@@ -51,6 +51,7 @@
 * https://venturebeat.com/2020/10/19/facebooks-open-source-m2m-100-model-can-translate-between-100-different-languages/
 * https://github.com/pytorch/fairseq/tree/master/examples/m2m_100
 * https://www.streamlit.io/
+* https://github.com/kakaobrain/pororo
 
 * More links I plan to sort: https://github.com/mcyph?tab=stars
 * See also for climate change-related links: https://hackmd.io/f--6YsuyQduYosKEGfNXCQ
