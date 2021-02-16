@@ -31,6 +31,7 @@
 * https://towardsdatascience.com/the-most-useful-ml-tools-2020-e41b54061c58
 * https://prakhar-mishra.medium.com/subtitle-translator-web-application-with-streamlit-and-easynmt-9c568d162453
 * https://becominghuman.ai/best-and-top-10-data-science-online-resource-available-for-every-aspiring-data-scientist-6aa5437cd9f2
+* https://medium.com/analytics-vidhya/top-5-unknown-sentiment-analysis-projects-on-github-to-help-you-through-your-nlp-projects-8d8f195e80fc
 
 ## Datasets
 
