@@ -13,8 +13,9 @@
 🌎 [iso_tools](https://github.com/mcyph/iso_tools) - work with language, script and region (ISO [639](https://en.wikipedia.org/wiki/ISO_639), [15924](https://en.wikipedia.org/wiki/ISO_15924) and [3166](https://en.wikipedia.org/wiki/ISO_3166)) codes 🚧<br/>
 📙 [pos_tagger](https://github.com/mcyph/pos_tagger) - multi-engine part-of-speech tagging 🚧
 
-### My web apps 🌐
+### My web apps/libraries 🌐
 
+🚦 [react_spectrecss_kickstarter](https://github.com/mcyph/react_spectrecss_kickstarter) - a quick set of UI, chart and map controls for civic tech+hackathons<br/>
 🐱 [langlynx.com](https://langlynx.com) - translation software for 100+ languages with dictionaries and encyclopedias<br/>
 🗣 [help-pronounce.com](https://github.com/mcyph/help_pronounce) - shows phonetics and pronunciations for words
 
