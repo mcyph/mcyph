@@ -58,6 +58,7 @@
 * https://www.streamlit.io/
 * https://github.com/kakaobrain/pororo
 * https://nodes.io/
+* https://www.knime.com/
 
 * More links I plan to sort: https://github.com/mcyph?tab=stars
 * See also for climate change-related links: https://hackmd.io/f--6YsuyQduYosKEGfNXCQ
