@@ -35,6 +35,7 @@
 * https://nextotech.com/natural-language-processing-books-in-2021/
 * https://medium.com/analytics-vidhya/a-quick-guide-on-missing-data-imputation-techniques-in-python-2020-5410f3df1c1e
 * https://www.ionos.com/digitalguide/online-marketing/web-analytics/a-comparison-of-data-mining-tools/
+* https://medium.com/innerdoc/periodic-table-of-nlp-tasks/home
 
 ## Datasets
 
