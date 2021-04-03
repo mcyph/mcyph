@@ -37,6 +37,7 @@
 * https://www.ionos.com/digitalguide/online-marketing/web-analytics/a-comparison-of-data-mining-tools/
 * https://medium.com/innerdoc/periodic-table-of-nlp-tasks/home
 * https://paperswithcode.com/newsletter/6/
+* https://www.analyticsvidhya.com/blog/2021/03/introducing-machine-learning-for-spatial-data-analysis/
 
 ## Datasets
 
