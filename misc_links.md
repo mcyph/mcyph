@@ -63,6 +63,8 @@
 * https://github.com/kakaobrain/pororo
 * https://nodes.io/
 * https://www.knime.com/
+* https://www.youtube.com/channel/UC4Snw5yrSDMXys31I18U3gg
+* https://12factor.net/
 
 * More links I plan to sort: https://github.com/mcyph?tab=stars
 * See also for climate change-related links: https://hackmd.io/f--6YsuyQduYosKEGfNXCQ
