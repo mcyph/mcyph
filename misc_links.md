@@ -11,6 +11,7 @@
 * https://huggingface.co/
 * https://github.com/huggingface
 * https://docs.google.com/spreadsheets/d/e/2PACX-1vSwopgOxIEImH4Q4_4_z6SWkUbwekRy5QugqubcPpPbZK-at2qZyWcbB6GQwmUXEQ/pubhtml?fbclid=IwAR3XxkekC0LDK1onEKbDm4TupSPJVku8ystijKmR7R09gzGroh1AXfXJLQI
+* https://github.com/neutraltone/awesome-stock-resources
 
 ## Tutorials
 
