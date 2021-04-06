@@ -39,6 +39,7 @@
 * https://paperswithcode.com/newsletter/6/
 * https://www.analyticsvidhya.com/blog/2021/03/introducing-machine-learning-for-spatial-data-analysis/
 * https://towardsdatascience.com/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1
+* https://www.webdesignerdepot.com/2015/01/the-ultimate-guide-to-svg/
 
 ## Datasets
 
