@@ -38,6 +38,7 @@
 * https://medium.com/innerdoc/periodic-table-of-nlp-tasks/home
 * https://paperswithcode.com/newsletter/6/
 * https://www.analyticsvidhya.com/blog/2021/03/introducing-machine-learning-for-spatial-data-analysis/
+* https://towardsdatascience.com/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1
 
 ## Datasets
 
