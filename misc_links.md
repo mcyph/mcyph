@@ -66,6 +66,7 @@
 * https://www.knime.com/
 * https://www.youtube.com/channel/UC4Snw5yrSDMXys31I18U3gg
 * https://12factor.net/
+* https://diagrams.mingrammer.com/docs/getting-started/examples
 
 * More links I plan to sort: https://github.com/mcyph?tab=stars
 * See also for climate change-related links: https://hackmd.io/f--6YsuyQduYosKEGfNXCQ
