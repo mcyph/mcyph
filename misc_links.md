@@ -70,6 +70,12 @@
 * https://12factor.net/
 * https://diagrams.mingrammer.com/docs/getting-started/examples
 * https://uxtools.co/challenges
+* https://github.com/keon/algorithms
+* https://github.com/ResidentMario/missingno
+* https://pypi.org/project/flashtext/
+* https://robertheaton.com/2019/04/14/open-source-for-advanced-beginners-1-bashplotlib/
+* https://textblob.readthedocs.io/en/dev/
+* https://github.com/KairosAerospace/flowgiston
 
 * More links I plan to sort: https://github.com/mcyph?tab=stars
 * See also for climate change-related links: https://hackmd.io/f--6YsuyQduYosKEGfNXCQ
