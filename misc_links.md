@@ -76,6 +76,7 @@
 * https://robertheaton.com/2019/04/14/open-source-for-advanced-beginners-1-bashplotlib/
 * https://textblob.readthedocs.io/en/dev/
 * https://github.com/KairosAerospace/flowgiston
+* https://otexts.com/
 
 * More links I plan to sort: https://github.com/mcyph?tab=stars
 * See also for climate change-related links: https://hackmd.io/f--6YsuyQduYosKEGfNXCQ
