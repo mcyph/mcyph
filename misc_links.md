@@ -77,6 +77,7 @@
 * https://textblob.readthedocs.io/en/dev/
 * https://github.com/KairosAerospace/flowgiston
 * https://otexts.com/
+* https://opennem.org.au/
 
 * More links I plan to sort: https://github.com/mcyph?tab=stars
 * See also for climate change-related links: https://hackmd.io/f--6YsuyQduYosKEGfNXCQ
