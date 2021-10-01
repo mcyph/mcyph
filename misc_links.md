@@ -168,6 +168,21 @@
 * https://github.com/ray-project/ray
 * https://github.com/cookiecutter-flask/cookiecutter-flask
 * https://elad.medium.com/css-position-sticky-how-it-really-works-54cd01dc2d46
+* https://github.com/microsoft/onnxjs
+* https://streamlit.io/
+* https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/
+* https://omdena.com/blog/illegal-dumping/
+* https://www.trashout.ngo/
+* https://medinform.jmir.org/2021/1/e22753/
+* https://orangedatamining.com/
+* https://github.com/ml-tooling/best-of-ml-python
+* https://brain.js.org/
+* https://www.mltut.com/free-public-datasets-for-your-data-science-project/
+* https://roadmap.sh/
+* https://github.com/kamranahmedse/developer-roadmap
+* http://www.pynq.io/
+* https://www.digikey.com.au/en/articles/build-and-program-fpga-based-designs-quickly-python-jupyter-notebooks
+* https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md
 
 * More links I plan to sort: https://github.com/mcyph?tab=stars
 * See also for climate change-related links: https://hackmd.io/f--6YsuyQduYosKEGfNXCQ
