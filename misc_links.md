@@ -183,6 +183,9 @@
 * http://www.pynq.io/
 * https://www.digikey.com.au/en/articles/build-and-program-fpga-based-designs-quickly-python-jupyter-notebooks
 * https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md
+* https://stackoverflow.blog/2021/02/24/what-i-wish-i-had-known-about-single-page-applications/
+* https://modin.readthedocs.io/en/latest/
+* https://github.com/satwikkansal/wtfpython
 
 * More links I plan to sort: https://github.com/mcyph?tab=stars
 * See also for climate change-related links: https://hackmd.io/f--6YsuyQduYosKEGfNXCQ
