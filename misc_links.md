@@ -159,7 +159,15 @@
 * https://julien.danjou.info/high-performance-in-python-with-zero-copy-and-the-buffer-protocol/
 * https://github.com/mozilla-b2g/gaia/tree/master/apps/keyboard
 * https://stats.stackexchange.com/questions/6/the-two-cultures-statistics-vs-machine-learning
-
+* https://preactjs.com/guide/v10/web-components/
+* https://github.com/keon/algorithms
+* https://medium.com/pythoneers/15-python-packages-you-probably-dont-know-exits-aef0525a965f
+* https://developer.mozilla.org/en-US/docs/Web/SVG/SVG_animation_with_SMIL
+* https://csspoint101.com/50-best-svg-animation-examples/
+* https://towardsdatascience.com/5-reasons-why-i-left-the-ai-industry-2c88ea183cdd
+* https://github.com/ray-project/ray
+* https://github.com/cookiecutter-flask/cookiecutter-flask
+* https://elad.medium.com/css-position-sticky-how-it-really-works-54cd01dc2d46
 
 * More links I plan to sort: https://github.com/mcyph?tab=stars
 * See also for climate change-related links: https://hackmd.io/f--6YsuyQduYosKEGfNXCQ
