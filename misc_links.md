@@ -186,6 +186,7 @@
 * https://stackoverflow.blog/2021/02/24/what-i-wish-i-had-known-about-single-page-applications/
 * https://modin.readthedocs.io/en/latest/
 * https://github.com/satwikkansal/wtfpython
+* https://blog.curiosity.ai/how-to-fix-a-terrible-mckinsey-chart-in-3-2-easy-steps-3481821a24fc
 
 * More links I plan to sort: https://github.com/mcyph?tab=stars
 * See also for climate change-related links: https://hackmd.io/f--6YsuyQduYosKEGfNXCQ
