@@ -188,6 +188,7 @@
 * https://github.com/satwikkansal/wtfpython
 * https://blog.curiosity.ai/how-to-fix-a-terrible-mckinsey-chart-in-3-2-easy-steps-3481821a24fc
 * https://medium.com/@turc.raluca
+* https://theaisummer.com/text-to-speech/
 
 * More links I plan to sort: https://github.com/mcyph?tab=stars
 * See also for climate change-related links: https://hackmd.io/f--6YsuyQduYosKEGfNXCQ
