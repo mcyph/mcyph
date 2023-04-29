@@ -192,6 +192,7 @@
 * https://huggingface.co/blog/fine-tune-whisper
 * https://github.com/huggingface/community-events/tree/main/whisper-fine-tuning-event#fine-tune-whisper
 * https://www.zeta-alpha.com/post/must-read-the-100-most-cited-ai-papers-in-2022
+* https://arxiv.org/abs/2303.18223
 
 * More links I plan to sort: https://github.com/mcyph?tab=stars
 * See also for climate change-related links: https://hackmd.io/f--6YsuyQduYosKEGfNXCQ
