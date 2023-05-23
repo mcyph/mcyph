@@ -195,6 +195,11 @@
 * https://arxiv.org/abs/2303.18223
 * https://koraia.org/
 
+## Text Classification Datasets
+
+* https://zenodo.org/record/6400068
+* https://cs.brown.edu/people/epavlick/data.html
+
 * More links I plan to sort: https://github.com/mcyph?tab=stars
 * See also for climate change-related links: https://hackmd.io/f--6YsuyQduYosKEGfNXCQ
 * See for covid-19 links: https://github.com/mcyph/world_subnational_covid_crawler/blob/master/potential_sources.md
